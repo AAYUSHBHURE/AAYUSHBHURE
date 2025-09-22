@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AAYUSHBHURE/AAYUSHBHURE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![AAYUSHBHURE's GitHub | Stats](https://stats.quine.sh/AAYUSHBHURE/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AAYUSHBHURE)
